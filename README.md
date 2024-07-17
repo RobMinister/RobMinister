@@ -4,6 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobMinister&hide_progress=false&langs_count=99&layout=compact&theme=midnight-purple)
 
-[Robin Sharma](https://www.linkedin.com/in/robinsharma11)
+[My Linkedin](https://www.linkedin.com/in/robinsharma11)
 
 
