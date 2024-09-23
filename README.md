@@ -1,7 +1,6 @@
 # 💫 About Me:
 I’m a passionate developer exploring new technologies and solving problems through code. Currently, I’m working on building my personal portfolio and looking to collaborate on open-source web development projects. I’m learning advanced JavaScript, React, and Docker, and would love help with cloud computing and DevOps. Fun fact: I’m always experimenting with the latest tech trends!
 
----
 [![](https://visitcount.itsvg.in/api?id=RobMinister&icon=5&color=10)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
