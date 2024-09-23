@@ -1,6 +1,9 @@
 # 💫 About Me:
 I’m a passionate developer exploring new technologies and solving problems through code. Currently, I’m working on building my personal portfolio and looking to collaborate on open-source web development projects. I’m learning advanced JavaScript, React, and Docker, and would love help with cloud computing and DevOps. Fun fact: I’m always experimenting with the latest tech trends!
 
+---
+[![](https://visitcount.itsvg.in/api?id=RobMinister&icon=5&color=10)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/robiin_sharma__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robinsharma11) 
 
@@ -16,8 +19,3 @@ I’m a passionate developer exploring new technologies and solving problems thr
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RobMinister&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=RobMinister&icon=5&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
