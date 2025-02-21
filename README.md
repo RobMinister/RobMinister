@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m a passionate developer exploring new technologies and solving problems through code. Currently, I’m working on building my personal portfolio and looking to collaborate on open-source web development projects. I’m learning advanced JavaScript, React, and Docker, and would love help with cloud computing and DevOps. Fun fact: I’m always experimenting with the latest tech trends!
+Full-Stack Software Engineer with 3+ years of experience in designing, developing, and optimizing scalable, secure, and high-performance applications across industries such as education, logistics, and finance. Proficient in backend and frontend technologies, including Java, C#, .NET, Python, Node.js, React, and Angular, with a strong focus on RESTful API development, microservices architecture, and cloud-based solutions. Experienced in database management (SQL, NoSQL), DevOps practices, and system security, ensuring robust, efficient, and reliable software systems. Adept at collaborating in Agile environments, leading development initiatives, and driving technical innovation. Committed to delivering impactful solutions that align with business objectives, enhance system performance, and improve user experience.
+ 
+Fun fact: I’m always experimenting with the latest tech trends!
 
 [![](https://visitcount.itsvg.in/api?id=RobMinister&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
